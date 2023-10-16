@@ -1,0 +1,2 @@
+# DCGAN
+This project implements a Deep Convolutional Generative Adversarial Network (DCGAN) to generate fashion images. DCGAN is a popular architecture for generating realistic images and has been widely used for various image synthesis tasks. In this project, we train a DCGAN model to generate high-quality fashion images, and you can use this repository to explore, train, and generate your own fashion images.
